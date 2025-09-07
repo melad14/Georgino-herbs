@@ -13,12 +13,8 @@ const Footer = () => {
               <div className="footer-item">
                 <h4 className="text-white mb-4">About Us</h4>
                 <p className="mb-3">
-                  Outlook Digital Solutions is a leading provider
-                  of innovative technology solutions,
-                  specializing in interactive panels, sound
-                  systems, and computers. Our mission is to
-                  enhance user experiences through cuttingedge digital solutions tailored to meet the
-                  needs of our clients.
+                                     Georgino herbs is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.
+
                 </p>
               </div>
           
@@ -64,11 +60,11 @@ const Footer = () => {
                 floor- Bani-suef
               </a>
               <a href=""><i className="fas fa-envelope me-2"></i>
-                contact@outlookds.com</a>
+                contact@Georginoherbs.com</a>
               <a href=""><i className="fas fa-phone me-2"></i>01205450008
               </a>
               <a href="" className="mb-3"><i className="fas fa-print me-2"></i>
-                www.outlookds.com</a>
+                www.Georginoherbs.com</a>
               <div className="d-flex">
                 <a className="btn btn-secondary btn-md-square rounded-circle me-3" href="">
                   <i className="fab fa-facebook-f text-white"></i>
