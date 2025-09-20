@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 // Navbar & Hero Start
 const Navbar = () => {
   return (
-    <div className="container-fluid nav-bar p-0">
+    <div className="container-fluid nav-bar p-0 fixed-top">
       <nav className="navbar navbar-expand-lg navbar-light bg-white px-4 px-lg-5 py-3 py-lg-0">
         <Link to="/" className="navbar-brand p-0">
           <h1 className="display-5 text-secondary m-0">

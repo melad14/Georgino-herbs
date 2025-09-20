@@ -56,26 +56,25 @@ const Footer = () => {
           <div className="col-md-6 col-lg-6 col-xl-3">
             <div className="footer-item d-flex flex-column">
               <h4 className="text-white mb-4">Contact Info</h4>
-              <a href=""><i className="fa fa-map-marker-alt me-2"></i> july 23 abrove al-tawhid ,al-nour , seventh
-                floor- Bani-suef
+              <a ><i className="fa fa-map-marker-alt me-2"></i> menshet abu meileh-somosta -bani swayf
               </a>
-              <a href=""><i className="fas fa-envelope me-2"></i>
-                contact@Georginoherbs.com</a>
-              <a href=""><i className="fas fa-phone me-2"></i>01205450008
+              <a ><i className="fas fa-envelope me-2"></i>
+                goregenoherbs@gmail.com</a>
+              <a ><i className="fas fa-phone me-2"></i>+201205484259
               </a>
-              <a href="" className="mb-3"><i className="fas fa-print me-2"></i>
-                www.Georginoherbs.com</a>
+              <a  className="mb-3"><i className="fas fa-print me-2"></i>
+               georgino-herbs.vercel.app</a>
               <div className="d-flex">
-                <a className="btn btn-secondary btn-md-square rounded-circle me-3" href="">
+                <a className="btn btn-secondary btn-md-square rounded-circle me-3" >
                   <i className="fab fa-facebook-f text-white"></i>
                 </a>
-                <a className="btn btn-secondary btn-md-square rounded-circle me-3" href="">
+                <a className="btn btn-secondary btn-md-square rounded-circle me-3" >
                   <i className="fab fa-twitter text-white"></i>
                 </a>
-                <a className="btn btn-secondary btn-md-square rounded-circle me-3" href="">
+                <a className="btn btn-secondary btn-md-square rounded-circle me-3" >
                   <i className="fab fa-instagram text-white"></i>
                 </a>
-                <a className="btn btn-secondary btn-md-square rounded-circle me-0" href="">
+                <a className="btn btn-secondary btn-md-square rounded-circle me-0" >
                   <i className="fab fa-linkedin-in text-white"></i>
                 </a>
               </div>

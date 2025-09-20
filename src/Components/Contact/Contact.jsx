@@ -36,7 +36,7 @@ export default function Contact() {
           <i className="fas fa-map-marked-alt fa-4x text-primary bg-light p-3 rounded"></i>
           <div className="ps-3">
             <h5>Location</h5>
-            <p>123, First Floor, 123 St Roots Terrace, Los Angeles 90010 Unitd States of America.</p>
+            <p>menshet abu meileh-somosta -bani swayf</p>
           </div>
         </div>
         <div className="row g-3">
@@ -47,11 +47,11 @@ export default function Contact() {
                 <h5 className="mb-3">Quick Contact</h5>
                 <div className="mb-3">
                   <h6 className="mb-0">Phone:</h6>
-                  <Link to="" className="fs-5 text-primary">+012 3456 7890</Link>
+                  <Link to="" className="fs-5 text-primary">+201205484259 </Link>
                 </div>
                 <div className="mb-3">
                   <h6 className="mb-0">Email:</h6>
-                  <Link to="" className="fs-5 text-primary">travisa@example.com</Link>
+                  <Link to="" className="fs-5 text-primary">goregenoherbs@gmail.com</Link>
                 </div>
               </div>
             </div>
@@ -62,11 +62,11 @@ export default function Contact() {
               <div className="ps-3">
                 <h5 className="mb-3">Opening Hrs</h5>
                 <div className="mb-3">
-                  <h6 className="mb-0">Mon - Friday:</h6>
+                  <h6 className="mb-0">sat - Wednesday :</h6>
                   <Link to="" className="fs-5 text-primary">09.00 am to 07.00 pm</Link>
                 </div>
                 <div className="mb-3">
-                  <h6 className="mb-0">Satday:</h6>
+                  <h6 className="mb-0">Thursday:</h6>
                   <Link to="" className="fs-5 text-primary">10.00 am to 05.00 pm</Link>
                 </div>
               </div>

@@ -75,7 +75,7 @@ export default function About() {
                     </div>
                     <div className="d-flex flex-column justify-content-center">
                       <span className="text-primary">Have any questions?</span>
-                      <span className="text-secondary fw-bold fs-5" style={{ letterSpacing: '2px' }}>Free: +0123 456 7890</span>
+                      <span className="text-secondary fw-bold fs-5" style={{ letterSpacing: '2px' }}>Free: +201205484259</span>
                     </div>
                   </div>
                 </div>
