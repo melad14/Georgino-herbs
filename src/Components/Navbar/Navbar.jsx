@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import logo from '../../img/logo.jpg';
 
 // Navbar & Hero Start
 const Navbar = () => {
@@ -7,8 +8,8 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-white px-4 px-lg-5 py-3 py-lg-0">
         <Link to="/" className="navbar-brand p-0">
           <h1 className="display-5 text-secondary m-0">
-            <img src="img/brand-logo.png" className="img-fluid" alt="" />
-            Georgino <span className='fs-6 text-dark text-muted'>herbs</span>
+            <img src={logo} className="img-fluid" alt="" />
+    
           </h1>
           
         </Link>

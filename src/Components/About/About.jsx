@@ -39,7 +39,7 @@ export default function About() {
               <h5 className="sub-title pe-3 text-primary">About the company</h5>
               <h1 className="display-5 mb-4">A Journey from Local Market to Global Exporter.</h1>
               <p className="mb-4">
-                Georgino herbs is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.                </p>
+                 goregeno & co. is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.                </p>
               <div className="row gy-4 align-items-center">
                 <div className="col-12 col-sm-6 d-flex align-items-center">
                   <i className="fas fa-map-marked-alt fa-3x text-secondary"></i>

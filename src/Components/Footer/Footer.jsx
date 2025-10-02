@@ -13,7 +13,7 @@ const Footer = () => {
               <div className="footer-item">
                 <h4 className="text-white mb-4">About Us</h4>
                 <p className="mb-3">
-                                     Georgino herbs is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.
+                                     goregeno & co. is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.
 
                 </p>
               </div>

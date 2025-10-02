@@ -38,7 +38,7 @@ export default function Home() {
                   <h1 className="display-1 text-capitalize text-white mb-3 mb-md-4" data-aos="fade-up" data-aos-delay="300">
                     Discover the Exquisite Flavours!</h1>
                   <p className="text-white mb-4 mb-md-5 fs-5" data-aos="fade-up" data-aos-delay="500">
-                    Georgino herbs is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.
+                    goregeno & co is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.
                   </p>
                   <Link className="btn btn-primary border-secondary rounded-pill text-white py-3 px-5" data-aos="fade-up" data-aos-delay="700" to="/service">More Details</Link>
                 </div>
@@ -51,7 +51,7 @@ export default function Home() {
                   <h1 className="display-1 text-capitalize text-white mb-3 mb-md-4" data-aos="fade-up" data-aos-delay="300">
                     Discover the Exquisite Flavours!</h1>
                   <p className="text-white mb-4 mb-md-5 fs-5" data-aos="fade-up" data-aos-delay="500">
-                    Georgino herbs is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.
+                    goregeno & co is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.
                   </p>
 
                   <Link className="btn btn-primary border-secondary rounded-pill text-white py-3 px-5" data-aos="fade-up" data-aos-delay="700" to="/service">More Details</Link>
@@ -84,7 +84,7 @@ export default function Home() {
               <h5 className="sub-title pe-3 text-primary">About the company</h5>
               <h1 className="display-5 mb-4">A Journey from Local Market to Global Exporter.</h1>
               <p className="mb-4">
-                Georgino herbs is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.                </p>
+                goregeno & co is a leading exporter of premium quality herbs and spices, based in Egypt and serving customers worldwide. Our herbs and spices are grown and harvested using sustainable practices and are carefully processed to preserve their natural flavor and health benefits.                </p>
               <div className="row gy-4 align-items-center">
                 <div className="col-12 col-sm-6 d-flex align-items-center">
                   <i className="fas fa-map-marked-alt fa-3x text-secondary"></i>
